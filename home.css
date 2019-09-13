@@ -1,0 +1,17 @@
+/* Everything in here is a comment code */
+
+body
+{ /* backround-color: purple;*/
+    background-image: url("img/e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h4{
+   color: blueviolet;
+}
+
+/* Style a specific section of the page that has an ID= using the hashtag*/
+#textEnhance { color: #8b002c;
+    background-image: linear-gradiemt(blue,purple,green,); }
